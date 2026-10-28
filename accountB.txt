@@ -1,2 +1,2 @@
 This file belongs to Account B.
-
+Updated accountB file as part of Git collaboration practice.
